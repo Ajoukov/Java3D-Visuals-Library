@@ -1,4 +1,0 @@
-functional buttons
-add button for default background
-make buttons look cool (3D or other)
-change button layout
